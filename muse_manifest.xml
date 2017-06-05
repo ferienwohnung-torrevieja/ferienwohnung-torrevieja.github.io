@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ferienwohnung-torrevieja.es" resolutions="1x" timestamp="1496695862690">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ferienwohnung-torrevieja.es" resolutions="1x" timestamp="1496701082712">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="impressum.css" crc="3956992351" ref="impressum"/>
@@ -7,7 +7,7 @@
     <file name="nomq_impressum.css" crc="188495307" ref="impressum"/>
     <file name="english.css" crc="4182831777" ref="english"/>
     <file name="nomq_english.css" crc="4026313007" ref="english"/>
-    <file name="master_de-musters.css" crc="78625595" ref="index:impressum"/>
+    <file name="master_de-musters.css" crc="26799169" ref="index:impressum"/>
     <file name="nomq_preview_master_de-musters.css" crc="3824530138" ref="index:impressum"/>
     <file name="master_en-musters.css" crc="525310535" ref="english"/>
     <file name="nomq_preview_master_en-musters.css" crc="3824530138" ref="english"/>
@@ -211,7 +211,7 @@
       <caption webpage="english" alt="Wohnzimmer"/>
     </file>
     <file name="07-crop-u23945.jpg" crc="115548897" seo="true" ref="index">
-      <caption webpage="index" alt="Ventillator für heiße Tage"/>
+      <caption webpage="index" alt="Ventilator für heiße Tage"/>
     </file>
     <file name="08-crop-u23971.jpg" crc="3859832588" seo="true" ref="index">
       <caption webpage="index" alt="Esstisch für 4 Personen"/>
@@ -288,7 +288,7 @@
       <caption webpage="index" alt="Großer Einbauschrank"/>
     </file>
     <file name="07-crop-u239452.jpg" crc="115548897" seo="true" ref="index">
-      <caption webpage="index" alt="Ventillator für heiße Tage"/>
+      <caption webpage="index" alt="Ventilator für heiße Tage"/>
     </file>
     <file name="08-crop-u239712.jpg" crc="3859832588" seo="true" ref="index">
       <caption webpage="index" alt="Esstisch für 4 Personen"/>
@@ -387,7 +387,7 @@
       <caption webpage="index" alt="Großer Einbauschrank"/>
     </file>
     <file name="07-crop-u239453.jpg" crc="115548897" seo="true" ref="index">
-      <caption webpage="index" alt="Ventillator für heiße Tage"/>
+      <caption webpage="index" alt="Ventilator für heiße Tage"/>
     </file>
     <file name="08-crop-u239713.jpg" crc="3859832588" seo="true" ref="index">
       <caption webpage="index" alt="Esstisch für 4 Personen"/>
@@ -414,7 +414,7 @@
       <caption webpage="index" alt="Großer Einbauschrank"/>
     </file>
     <file name="07-crop-u239454.jpg" crc="115548897" seo="true" ref="index">
-      <caption webpage="index" alt="Ventillator für heiße Tage"/>
+      <caption webpage="index" alt="Ventilator für heiße Tage"/>
     </file>
     <file name="08-crop-u239714.jpg" crc="3859832588" seo="true" ref="index">
       <caption webpage="index" alt="Esstisch für 4 Personen"/>
@@ -654,7 +654,7 @@
     <file name="u32471-44.png" crc="4212667247" ref="english"/>
     <file name="u32473-44.png" crc="12735793" ref="english"/>
   </folder>
-  <file name="index.html" crc="221858839" seo="true" mt="1496693683458" redirect="true"/>
+  <file name="index.html" crc="3969086258" seo="true" mt="1496700860620" redirect="true"/>
   <file name="impressum.html" crc="3955552982" seo="true" mt="1496693371224" redirect="true"/>
   <file name="english.html" crc="219912149" seo="true" mt="1496695837198" redirect="true"/>
 </manifest>
